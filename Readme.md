@@ -1,2 +1,1 @@
-Changhe "key-your-yandex-api"
-On line 62 and 75
+Change "key-your-yandex-api" on line 62 and 75
